@@ -1,3 +1,9 @@
+## Olá me chamo Kauã Neres 👋
+
+### ☎️ Minhas redes: 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/kauã-neres)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/neres.dev?igsh=MTN2d2Rxc3J6emhjbQ==)
 
@@ -12,6 +18,7 @@
 ##
 
 ![Neres.Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua-cel&show_icons=true&theme=tokyonight)
+
 
 <p>📚Estudando sistemas da computação na UESPI.</p>
 📫Email: kauaneres.dev@gmail.com
