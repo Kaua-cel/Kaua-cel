@@ -5,7 +5,6 @@
 
 
 
-<div align="center width="100%"">
   <div align="center">
     <b>`プログラマー`</b>
     <samp>
@@ -15,30 +14,41 @@
   </div>
   
   <div align="center" width="100%">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=22&pause=1000&color=31958d&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+perfil;Estudando+Sistemas+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Web;Aprendendo+Blockchain" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=22&pause=1000&color=31958d&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+perfil;Estudando+Sistemas+de+Computa%C3%A7%C3%A3o;Desenvolvedor+Web" alt="Typing SVG" /></a>
   </div>
-<div align="center">
-  
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=tokyonight&utcOffset=8) | 
-| :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=tokyonight) |
-  | :-: |
-</div>
-  <br>
-  <div align="center" style="display: inline_block">
+
+
+**Sobre mim:**
+Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em buscar soluções. Com experiência em JavaScript, TypeScript, Python, React, PostgreSQL e MySQL, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Sou dedicado, curioso e adoro enfrentar desafios técnicos.
+
+**Habilidades:**
+- Linguagens de Programação: JavaScript, TypeScript, Python
+- Frameworks e Bibliotecas: React
+- Banco de Dados: PostgreSQL, MySQL
+- Ferramentas: Git, Figma
+<br>
+<br>
+
+  <div align="left" style="display: inline_block">
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  </div>
 
-  <br>
+**Experiências:**
+- Desenvolvimento de projetos pessoais utilizando React e bancos de dados relacionais.
+- Participação em hackathons e eventos de tecnologia para aprimorar minhas habilidades e colaborar com outros desenvolvedores.
+- Trabalho para a empresa ED+ Content Hub, onde tive a oportunidade de aplicar meus conhecimentos em desenvolvimento web e aprender sobre o mercado de tecnologia.
+- Atuando no Grupo Imagem, empresa de tecnologia focada em soluções para o setor de saúde, onde estou envolvido em projetos que utilizam tecnologias modernas para melhorar a eficiência e a qualidade dos serviços de saúde.
   <br>
     
-<div align="center">
+<div align="left">
   <samp>
     <b>
       Contact me:
