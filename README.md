@@ -27,6 +27,7 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
 - Frameworks e Bibliotecas: React
 - Banco de Dados: PostgreSQL, MySQL
 - Ferramentas: Git, Figma
+
 <br>
 
   <div align="left" style="display: inline_block">
@@ -42,10 +43,11 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
 
 <br>
 <br>
+
 **Experiências:**
 - Desenvolvimento de projetos pessoais utilizando React e bancos de dados relacionais.
 - Participação em hackathons e eventos de tecnologia para aprimorar minhas habilidades e colaborar com outros desenvolvedores.
-- Trabalho para a empresa ED+ Content Hub, onde tive a oportunidade de aplicar meus conhecimentos em desenvolvimento web e aprender sobre o mercado de tecnologia.
+- Trabalhei para a empresa ED+ Content Hub, onde tive a oportunidade de aplicar meus conhecimentos em desenvolvimento web e aprender sobre o mercado de tecnologia.
 - Atuando no Grupo Imagem, empresa de tecnologia focada em soluções para o setor de saúde, onde estou envolvido em projetos que utilizam tecnologias modernas para melhorar a eficiência e a qualidade dos serviços de saúde.
   <br>
     
