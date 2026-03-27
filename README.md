@@ -41,6 +41,8 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   </div>
 
+<br>
+<br>
 **Experiências:**
 - Desenvolvimento de projetos pessoais utilizando React e bancos de dados relacionais.
 - Participação em hackathons e eventos de tecnologia para aprimorar minhas habilidades e colaborar com outros desenvolvedores.
