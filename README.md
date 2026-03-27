@@ -28,7 +28,6 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
 - Banco de Dados: PostgreSQL, MySQL
 - Ferramentas: Git, Figma
 <br>
-<br>
 
   <div align="left" style="display: inline_block">
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
