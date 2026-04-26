@@ -24,7 +24,7 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
 
 **Habilidades:**
 - Linguagens de Programação: JavaScript, TypeScript, Python
-- Frameworks e Bibliotecas: React
+- Frameworks e Bibliotecas: React, Tailwind
 - Banco de Dados: PostgreSQL, MySQL
 - Ferramentas: Git, Figma
 
@@ -37,6 +37,7 @@ Estudante de Sistemas de Computação, apaixonado por desenvolvimento web e em b
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind/tailwind-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   </div>
