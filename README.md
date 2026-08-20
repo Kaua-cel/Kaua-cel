@@ -26,15 +26,11 @@ Integração de sistemas, APIs e bancos de dados.
 
 ## Sobre mim
 
-Sou estudante do **5º período do curso de Tecnologia em Sistemas de Computação** e atuo na área de tecnologia há quase três anos.
+Sou estudante do **5º período de Tecnologia em Sistemas de Computação** e atuo na área de tecnologia há quase três anos, com foco em **automação de processos, integração de sistemas e desenvolvimento web**.
 
-Tenho interesse em transformar problemas e processos manuais em soluções de software. Atualmente, meu foco profissional está em **automação de processos, integração de sistemas e desenvolvimento web**.
+Trabalho principalmente com **Python, n8n, Node.js, TypeScript, React e PostgreSQL**, além de Git, Docker e APIs REST. Também utilizo **Inteligência Artificial no fluxo de desenvolvimento**, com revisão técnica, validação de código e boas práticas de engenharia de software.
 
-Trabalho principalmente com **Python, n8n, Node.js, TypeScript e React**, além de possuir experiência com **PostgreSQL, APIs REST, Git, Docker e integrações entre sistemas**.
-
-No meu dia a dia, também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, aplicando-a em atividades como análise de código, pesquisa técnica, documentação, planejamento de soluções, criação e revisão de testes e apoio à resolução de problemas. Procuro utilizar IA com **validação técnica, revisão humana, controle de contexto, atenção à segurança e boas práticas de engenharia de software**, tratando-a como uma ferramenta para aumentar produtividade e qualidade, não como substituta da tomada de decisão técnica.
-
-Ao longo da minha trajetória, participei de projetos envolvendo **telerradiologia, automação de processos financeiros, sistemas para a área da saúde, educação digital e soluções inteligentes**.
+Tenho experiência em projetos de **telerradiologia, saúde, automação financeira, educação digital e soluções inteligentes**.
 
 ## Áreas de atuação
 
