@@ -1,4 +1,8 @@
 <div align="center">
+  <img align="center" height="150" alt="smr-removebg-preview" src="https://github.com/user-attachments/assets/2cdfb353-a698-4f0a-ba47-7c3aa8c8958c" />
+</div>
+
+<div align="center">
    <b>`プログラマー`</b>
    <samp>
        <br>
@@ -97,14 +101,6 @@ Atuação na **conversão e adaptação de livros e materiais para páginas web*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,react,postgres,docker,git,github,html,css" />
-
-<br/><br/>
-
-## Tecnologias
-
-<div align="center">
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
   ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -122,31 +118,6 @@ Atuação na **conversão e adaptação de livros e materiais para páginas web*
 
 
 </div>
-
-## Stack principal
-
-```text
-Automação
-├── Python
-├── n8n
-├── APIs REST
-└── Integração de sistemas
-
-Backend
-├── Node.js
-├── TypeScript
-├── Python
-└── PostgreSQL
-
-Frontend
-├── React
-├── TypeScript
-
-Ferramentas
-├── Git
-├── GitHub
-├── Docker
-```
 
 ## Atualmente
 
